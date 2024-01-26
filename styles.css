@@ -1,0 +1,33 @@
+h1, h3, strong {
+    display: flex;
+    background-color: rgb(235, 131, 12);
+    width: 30%;
+    border-radius: 15px;
+    justify-content: center;
+    color: white;
+    margin-top: 2%;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+
+}
+img {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    border-radius: 10px;  
+}
+li {
+    list-style: none;
+    margin: 15px;
+   
+}
+a {
+    border-radius: 15px;
+    justify-content: center;
+    color: white;
+    background-color: red; 
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
